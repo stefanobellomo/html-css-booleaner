@@ -21,6 +21,7 @@ footer{
 .logo{
     height: 50px;
     background-position: center;
+    margin: 25px;
 }
 
 address{
@@ -41,7 +42,7 @@ h3{
     margin: 30px 0px 10px 0px
 }
 
-figcaption{
+.caption {
    font-size: 10px;
     margin-top: 0px;
 }
