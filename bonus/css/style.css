@@ -22,6 +22,7 @@ footer{
     height: 50px;
     background-position: center;
     margin: 25px;
+    padding-top: 30px;
 }
 
 address{
@@ -29,6 +30,7 @@ address{
     color: grey;
     margin-bottom: 10px;
     font-size: 10px;
+    text-decoration: underline;
 }
 
 h1{
