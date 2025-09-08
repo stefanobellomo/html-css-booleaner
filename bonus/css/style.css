@@ -1,0 +1,91 @@
+
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(20, 119, 205);
+    height: 100px;
+    background-size: 24%;
+    
+}
+
+main{
+    margin: 0px 50px 0px 50px;
+}
+
+footer{
+    margin: 0px 50px 0px 50px;
+}
+
+
+
+.logo{
+    height: 50px;
+    background-position: center;
+    margin: 25px;
+}
+
+address{
+    font-style: normal;
+    color: grey;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+
+h1{
+    
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+h3{
+    color: gray;
+    margin: 30px 0px 10px 0px
+}
+
+.caption {
+   font-size: 10px;
+    margin-top: 0px;
+}
+    
+.list{
+  padding: 15px;
+  
+}
+
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+
+.color-header{
+    color: white;
+}
+tr{
+    background-color: rgb(86, 176, 255);
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+td{
+    background-color: rgb(135, 218, 245);
+}
+.color-white{
+    background-color: white;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    height: 200px;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+
+}
+.grafico{
+    background-image: url(../img/graph.jpg);
+    color: white;
+    height: 200px;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin-top: 0px;
+}
