@@ -48,13 +48,14 @@ h3{
 }
     
 .list{
-  padding: 15px;
-  
+  /*padding: 15px;
+  */
 }
 
 table{
-    width: 50%;
+    width: 100%;
     border-collapse: collapse;
+
 }
 
 .color-header{
