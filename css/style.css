@@ -9,11 +9,11 @@ header{
 }
 
 main{
-    margin: 0px 50px 0px 50px;
+    margin: 0px 200px 0px 200px;
 }
 
 footer{
-    margin: 0px 50px 0px 50px;
+    margin: 0px 200px 0px 200px;
 }
 
 
@@ -21,7 +21,7 @@ footer{
 .logo{
     height: 50px;
     background-position: center;
-    margin: 25px;
+    margin: 0px 100px 0px 100px;
 }
 
 address{
