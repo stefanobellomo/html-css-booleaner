@@ -1,5 +1,6 @@
 *{
-    margin: 0px
+    margin: 0;
+    padding: 0px 50px 0px 50px;
 }
 
 header{
@@ -12,6 +13,24 @@ header{
 
 .logo{
     height: 50px;
-   background-position: center;
-   
+    background-position: center;
+}
+figure{
+    padding: 0px;
+}
+
+address{
+    font-style: normal;
+    color: grey;
+}
+article{
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+p{
+    margin: 50px
+}
+
+.list{
+    padding: 0px;
 }
