@@ -1,4 +1,6 @@
-
+body {
+    margin: 0px;
+}
 
 header{
     background-image: url(../img/pattern.png);
