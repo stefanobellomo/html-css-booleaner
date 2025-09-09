@@ -23,7 +23,7 @@ ul {
     height: 50px;
     background-position: center;
     margin: 25px;
-    margin-left: 70px;
+    padding-left: 70px;
 }
 
 address {
